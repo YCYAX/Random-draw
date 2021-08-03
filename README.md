@@ -6,5 +6,4 @@
 文件RedomNumberMain为主程序
 ### 打包命令
 Pyinstaller -F -w -i photo.ico RandomNumberMain.py  
-> exe文件分享 
-> > https://ycyax.lanzoui.com/i3loxs6n45g 密码:aqe7
+> [exe文件分享](https://ycyax.lanzoui.com/i3loxs6n45g) 密码:aqe7
