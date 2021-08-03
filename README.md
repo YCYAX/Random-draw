@@ -3,4 +3,4 @@
 如有bug可以和我随时反馈
 ####
 通过qt designer编写的ui
-#RedomNumberMain为主程序
+RedomNumberMain为主程序
