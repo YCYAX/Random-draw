@@ -5,11 +5,11 @@ from functools import partial
 from random import sample
 import sys,RandomNumber
 
-#"作者个人Github地址-点击跳转"按钮2
+#"作者个人Github地址-点击跳转"按钮2.
 def click_success2():
     QDesktopServices.openUrl(QUrl("https://github.com/YCYAX"))
 
-#"点击获取抽取结果↓"按钮1
+#"点击获取抽取结果↓"按钮1.
 def click_success(ui):
     MinNumber = ui.lineEdit.text()
     MaxNumber = ui.lineEdit_2.text()
