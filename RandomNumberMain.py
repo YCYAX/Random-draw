@@ -15,7 +15,8 @@ def click_success(ui):
     MaxNumber = ui.lineEdit_2.text()
     PeopleNmuber = ui.lineEdit_3.text()
     try:
-        result = sample(range(int(MinNumber), int(MaxNumber)), int(PeopleNmuber))
+        result = sample(range(int(MinNumber), int(MaxNumber)+1), int(PeopleNmuber))
+        result.sort()
         ui.lineEdit_4.setText("结果为"+str(result))
     except:
         ui.lineEdit_4.setText('前三个数值有不是整数的数值')
