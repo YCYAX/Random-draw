@@ -8,4 +8,4 @@
 ![Image](https://raw.githubusercontent.com/YCYAX/Github-figure-bed/main/RandomNumberui.png)
 ### 打包命令
 Pyinstaller -F -w -i photo.ico RandomNumberMain.py  
-> [exe文件分享](https://ycyax.lanzoui.com/i3loxs6n45g) 密码:aqe7
+> [exe文件分享](https://ycyax.lanzoui.com/b02i9e9oh密码:bkfm) 密码:bkfm
